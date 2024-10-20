@@ -1,4 +1,4 @@
-from quantization.kmeans_quantization import KMeansQuantizer
+from quantizer.kmeans_quantizer import KMeansQuantizer
 import torch.optim as optim
 import torch
 from torchvision import datasets, transforms, models
