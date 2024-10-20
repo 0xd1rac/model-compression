@@ -1,4 +1,4 @@
-## Project 1: Basic 1. Magnitude-based Pruning
+## Project 1: Magnitude-based Pruning
   **1. Set up the Environment**
   - [ ] Set up your dataset (e.g., CIFAR-10 or CIFAR-100).
   - [ ] Download or implement the Resnet50 Model
