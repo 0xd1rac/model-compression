@@ -2,29 +2,80 @@
 
 ## Road Map
 
-### Pruning 
-#### Project 1: Learning about different pruning criterion
-- [ ] Train a Resnet-50 on CIFAR-10 dataset and get a baseline accuracy
-- [ ] Implement global pruning on trained Resnet-50 (Magnitude-based)
-- [ ] Implement layer-wise pruning on trained Resnet-50 (Magnitude-based)
-- [ ] Implement global pruning on trained Resnet-50 (Scaling-based)
-- [ ] Implement layer-wise pruning on trained Resnet-50 (Scaling-based)
-- [ ] Implement global pruning on trained Resnet-50 (Second-Order-based)
-- [ ] Implement layer-wise pruning on trained Resnet-50 (Second-Order-based)
-- [ ] Implement global pruning on trained Resnet-50 (Percentage-of Zero-based)
-- [ ] Implement global layer-wise on trained Resnet-50 (Percentage-of Zero-based)
-- [ ] Implement global pruning on trained Resnet-50 (Regression-based)
-- [ ] Implement global layer-wise on trained Resnet-50 (Regression-based)
-
-#### Project 2: Learning about different pruning schedules and finetuning
+## Pruning 
+### Project 1: Basic 1. Magnitude-based Pruning
   **1. Set up the Environment**
-  - [ ] Train a baseline VGG16 model on CIFAR-10
   - [ ] Set up your dataset (e.g., CIFAR-10 or CIFAR-100).
   - [ ] Download or implement the Resnet50 Model
         
   **2. Train the Baseline Model**
   - [ ] Train the Resnet Model Until Convergence
-  - [ ] Record the baseline performance metrics (accuracy, number of parameters, inferencen time)
+  - [ ] Record the baseline performance metrics (accuracy, number of parameters, inference time)
+
+  **3. Implementing basic pruning techniques**
+  - [ ] Pruning Strategy: Remove weights closest to zero (both globally and layer-wise).
+  - [ ] Implement global magnitude-based pruning: prune the lowest magnitude weights across the entire network.
+  - [ ] Implement layer-wise magnitude-based pruning: prune the lowest magnitude weights in each layer separately.
+        
+ **4. Fine-Tuning** 
+  - [ ] Fine-the pruned models for a few epochs with a reduced learning rate.
+
+ **5. Evaluation**
+  - [ ] Measure the trade-off between the number of pruned weights, the model size, and the final accuracy after fine-tuning.
+
+### Project 2: Structured vs Unstructured Pruning 
+  **1. Set up the Environment**
+  - [ ] Set up your dataset (e.g., CIFAR-10 or CIFAR-100).
+  - [ ] Download or implement the Resnet50 Model
+        
+ **2. Train the Baseline Model**
+  - [ ] Train the Resnet Model Until Convergence
+  - [ ] Record the baseline performance metrics (accuracy, number of parameters, inference time)
+
+ **3. Pruning**
+  - [ ] Unstructured: prune individual weights based on their magnitude.
+  - [ ] Structured: prune entire filters/channels based on the sum or average of their weights.
+
+ **4. Fine-Tuning** 
+  - [ ] Fine-the pruned models for a few epochs with a reduced learning rate.
+
+ **5. Evaluation**
+ - [ ] Measure the trade-off between the number of pruned weights, the model size, and the final accuracy after fine-tuning.
+
+### Project 3: Sensitivity-based Pruning
+  **1. Set up the Environment**
+  - [ ] Set up your dataset (e.g., CIFAR-10 or CIFAR-100).
+  - [ ] Download or implement the Resnet50 Model
+        
+  **2. Train the Baseline Model**
+  - [ ] Train the Resnet Model Until Convergence
+  - [ ] Record the baseline performance metrics (accuracy, number of parameters, inference time)\
+
+  **3. Compute Sensitivity Scores**
+  - [ ] Compute sensitivity scores using gradient norms or saliency maps for each weight/filter.
+  - [ ] Rank weights/filters based on their sensitivity scores (least important first).
+
+  **4. Compute Sensitivity Scores**
+  - [ ] Prune the least sensitive weights/filters (e.g., prune the bottom 10-30%).
+  - [ ] Implement both structured (filters) and unstructured (weights) pruning based on sensitivity scores.
+        
+  **5. Fine-Tuning** 
+  - [ ] Fine-the pruned models for a few epochs with a reduced learning rate.
+
+  **6. Evaluation**
+  - [ ] Measure the trade-off between the number of pruned weights, the model size, and the final accuracy after fine-tuning.
+
+ **7. Visualization** 
+  - [ ]  Plot sensitivity maps or gradient norms for each layer.
+
+### Project 4: Pruning Scheduling and Finetuning
+  **1. Set up the Environment**
+  - [ ] Set up your dataset (e.g., CIFAR-10 or CIFAR-100).
+  - [ ] Download or implement the Resnet50 Model
+        
+  **2. Train the Baseline Model**
+  - [ ] Train the Resnet Model Until Convergence
+  - [ ] Record the baseline performance metrics (accuracy, number of parameters, inference time)
 
   **3. Choose Pruning Percentages** 
   - [ ] Decide on pruning percentages to try (e.g., 10%, 30%, 50% of weights).
