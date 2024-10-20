@@ -17,8 +17,8 @@
 - [ ] Implement global layer-wise on trained Resnet-50 (Regression-based)
 
 #### Part 2: Learning about different pruning schedules and finetuning
-1. Set up the Environment 
-- [ ] Train a baseline VGG16 model on CIFAR-10
+* 1. Set up the Environment *
+  - [ ] Train a baseline VGG16 model on CIFAR-10
 - [ ] Select the amount of pruning you want to apply (e.g., prune 10%, 30%, or 50% of weights).
 - [ ] Select a global or layerwise pruning criterion (one of the ones from Part 1)
 - [ ] Apply One-shot pruning: Train the model fully, prune the chosen percentage of weights all at once, then fine-tune the pruned model for a few epochs.
