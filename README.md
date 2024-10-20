@@ -23,6 +23,7 @@
  **5. Evaluation**
   - [ ] Measure the trade-off between the number of pruned weights, the model size, and the final accuracy after fine-tuning.
 
+
 ### Project 2: Structured vs Unstructured Pruning 
   **1. Set up the Environment**
   - [ ] Set up your dataset (e.g., CIFAR-10 or CIFAR-100).
@@ -41,6 +42,7 @@
 
  **5. Evaluation**
  - [ ] Measure the trade-off between the number of pruned weights, the model size, and the final accuracy after fine-tuning.
+
 
 ### Project 3: Sensitivity-based Pruning
   **1. Set up the Environment**
@@ -67,6 +69,7 @@
 
  **7. Visualization** 
   - [ ]  Plot sensitivity maps or gradient norms for each layer.
+
 
 ### Project 4: Pruning Scheduling and Finetuning
   **1. Set up the Environment**
