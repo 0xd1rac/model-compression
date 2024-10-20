@@ -31,9 +31,11 @@
   - [ ] Prepare the code to prune based on magnitude-based pruning (remove smallest weights by magnitude).
 
   **4. Implement Pruning Schedules** 
+  
   One-Shot Pruning
   - [ ] After training the full model, prune a fixed percentage of weights in one go (e.g., 30%).
   - [ ] Fine-tune the pruned model for a few epochs and record final accuracy and performance metrics.
+
 
  Iterative Pruning
  - [ ] Set up a loop that prunes a percentage of weights (e.g., 10%) every ‘n’ epochs (e.g., every 10 epochs).
