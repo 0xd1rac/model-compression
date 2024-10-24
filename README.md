@@ -29,6 +29,18 @@
 - [ ] Trained Ternary Quantization [Zhu et al., ICLR 2017]
 
 ## Knowledge Distillation
+- [ ] Network Augmentation for Tiny Deep Learning [Cai et al. , ICLR 2022]
+- [ ] Distilling the Knowledge in a Neural Network [Hinton et al. , NeurIPS Workshops 2014]
+- [ ] Knowledge Distillation: A Survey [Gou et al. , IJCV 2020]
+- [ ] FitNets: Hints for Thin Deep Nets [Romero et al. , ICLR 2015]
+- [ ] Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons [Heo et al. , AAAI 2019]
+- [ ] Relational Knowledge Distillation [Park et al. , CVPR 2019]
+- [ ] Born-Again Neural Networks [Furlanello et al., ICML 2018]
+- [ ] Deep Mutual Learning [Zhang et al. , CVPR 2018]
+- [ ] Knowledge Distillation by On-the-Fly Native Ensemble [Lan et al. , NeurIPS 2018]
+- [ ] Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation [Zhang et al. , ICCV 2019]
+- [ ] MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices [Sun et al. , ACL 2020]
+- [ ] AutoAugment: Learning Augmentation Policies from Data [Cubuk et al. , CVPR 2019]
 
 
 ## Neural Architecture Search 
