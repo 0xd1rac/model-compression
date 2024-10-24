@@ -1,10 +1,19 @@
 # Papers
 
 ## Pruning
+- [ ] Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey [Deng et al., IEEE 2020]
+- [ ] Learning Both Weights and Connections for E ffi cient Neural Network [Han et al., NeurIPS 2015]
+- [ ] Optimal Brain Damage [LeCun et al., NeurIPS 1989]
+- [ ] Learning Both Weights and Connections for E ffi cient Neural Network [Han et al., NeurIPS 2015]
+- [ ] AMC: Automl for Model Compression and Acceleration on Mobile Devices [He et al., ECCV 2018]
+- [ ] Network Trimming: A Data-Driven Neuron Pruning Approach towards E ffi cient Deep Architectures [Hu et al., ArXiv 2017]
+- [ ] ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression [Luo et al., ICCV 2017]
+- [ ] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot [Elias Frantar, Dan Alistarh, ArXiv 2023]
+- [ ] Pruning Convolutional Filters with First Order Taylor Series Ranking [Wang M.]
+- [ ] Importance Estimation for Neural Network Pruning [Molchanov et al., CVPR 2019]
+
 
 ## Quantization
-
-## Knowledge Distillation
 - [ ] Deep Compression [Han et al., ICLR 2016]
 - [ ] HAQ: Hardware-Aware Automated Quantization with Mixed Precision [Wang et al., CVPR 2019]
 - [ ] Towards Accurate Binary Convolutional Neural Network [Lin et al., NeurIPS 2017]
@@ -16,6 +25,8 @@
 - [ ] XNOR-Net: ImageNet Classification using Binary Convolutional Neural Networks [Rastegari etal.,ECCV 2016]
 - [ ] Ternary Weight Networks [Li et al., Arxiv 2016]
 - [ ] Trained Ternary Quantization [Zhu et al., ICLR 2017]
+
+## Knowledge Distillation
 
 
 ## Neural Architecture Search 
