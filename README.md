@@ -36,3 +36,4 @@
 - [ ] GradSign: Model Performance Inference with Theoretical Insights [Zhang and Jia, ICLR 2022]
 - [ ] Zen-NAS: A Zero-Shot NAS for High-Performance Image Recognition [Lin et al., ICCV 2021]
 - [ ] SNIP: Single-Shot Network Pruning based on Connection Sensitivity [Lee et al., ICLR 2019]
+- [ ] Flextron: Many-in-One Flexible Large Language Model [Cai et al., ICML 2024]
