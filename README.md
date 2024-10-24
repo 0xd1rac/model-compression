@@ -11,6 +11,8 @@
 - [ ] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot [Elias Frantar, Dan Alistarh, ArXiv 2023]
 - [ ] Pruning Convolutional Filters with First Order Taylor Series Ranking [Wang M.]
 - [ ] Importance Estimation for Neural Network Pruning [Molchanov et al., CVPR 2019]
+- [ ] Learning Structured Sparsity in Deep Neural Networks [Wen et al., NeurIPS 2016]
+- [ ] Exploring the granularity of sparsity in convolutional neural networks [Mao et al., CVPR-W]
 
 
 ## Quantization
