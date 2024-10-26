@@ -44,6 +44,7 @@
 
 
 ## Neural Architecture Search 
+- [ ] Neural Architecture Search: Insights from 1000 Papers
 - [ ] SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size [Iandola et al., arXiv 2016]
 - [ ] Neural Architecture Search: A Survey [Elskan et al., JMLR 2019]
 - [ ] Learning Transferable Architectures for Scalable Image Recognition [Zoph et al., CVPR 2018]
