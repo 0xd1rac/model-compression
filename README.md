@@ -83,4 +83,10 @@
 - [ ] Parameter-Efficient Transfer Learning for NLP
 - [ ] LoRA: Low-Rank Adaptation of Large Language Models
 - [ ] The Power of Scale for Parameter-Efficient Prompt Tuning
-- [ ] 
+- [ ] Prefix-Tuning: Optimizing Continuous Prompts for Generation
+- [ ] QLoRA: Efficient Finetuning of Quantized LLMs
+- [ ] BitDelta: Your Fine-Tune May Only Be Worth One Bit
+- [ ] Finetuned Language Models Are Zero-Shot Learners
+- [ ] Emergent Abilities of Large Language Models
+- [ ] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+
