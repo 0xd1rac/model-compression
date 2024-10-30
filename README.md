@@ -90,3 +90,9 @@
 - [ ] Emergent Abilities of Large Language Models
 - [ ] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
 
+## Long Context LLM
+- [ ] Focused Transformer: Contrastive Training for Context Scaling
+- [ ] LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models
+- [ ] Lost in the Middle: How Language Models Use Long Contexts
+- [ ] LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding
+      
