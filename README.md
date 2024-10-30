@@ -76,3 +76,11 @@
 - [ ] Efficient Memory Management for Large Language Model Serving with PagedAttention
 - [ ] FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
 - [ ] Fast Inference from Transformers via Speculative Decoding
+
+## LLM Post-Training 
+- [ ] BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models
+- [ ] TinyTL: Reduce Activations, Not Trainable Parameters for Efficient On-Device Learning
+- [ ] Parameter-Efficient Transfer Learning for NLP
+- [ ] LoRA: Low-Rank Adaptation of Large Language Models
+- [ ] The Power of Scale for Parameter-Efficient Prompt Tuning
+- [ ] 
