@@ -63,3 +63,16 @@
 - [ ] Zen-NAS: A Zero-Shot NAS for High-Performance Image Recognition [Lin et al., ICCV 2021]
 - [ ] SNIP: Single-Shot Network Pruning based on Connection Sensitivity [Lee et al., ICLR 2019]
 - [ ] Flextron: Many-in-One Flexible Large Language Model [Cai et al., ICML 2024]
+
+## LLM Deployment Techniques
+- [ ] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models
+- [ ] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+- [ ] A Simple and Effective Pruning Approach for Large Language Models - WANDA
+- [ ] Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time
+- [ ] Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
+- [ ] A Review of Sparse Expert Models in Deep Learning
+- [ ] SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning
+- [ ] H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models
+- [ ] Efficient Memory Management for Large Language Model Serving with PagedAttention
+- [ ] FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
+- [ ] Fast Inference from Transformers via Speculative Decoding
