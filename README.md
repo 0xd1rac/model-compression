@@ -30,6 +30,9 @@
 
 ## Knowledge Distillation
 - [ ] Network Augmentation for Tiny Deep Learning [Cai et al. , ICLR 2022]
+- [ ] Decoupled Knowledge Distillation" by Zhao et al. (CVPR 2022)
+- [ ] Knowledge Distillation via the Target-Aware Transformer" by Lin et al. (CVPR 2022)
+- [ ] Knowledge Distillation with Refined Logits" by Sun et al
 - [ ] Distilling the Knowledge in a Neural Network [Hinton et al. , NeurIPS Workshops 2014]
 - [ ] Knowledge Distillation: A Survey [Gou et al. , IJCV 2020]
 - [ ] FitNets: Hints for Thin Deep Nets [Romero et al. , ICLR 2015]
@@ -49,6 +52,7 @@
 - [ ] Neural Architecture Search: A Survey [Elskan et al., JMLR 2019]
 - [ ] Learning Transferable Architectures for Scalable Image Recognition [Zoph et al., CVPR 2018]
 - [ ] DARTS: Differentiable Architecture Search [Liu et al., ICLR 2019]
+- [ ] NAS-Bench-101: Towards Reproducible Neural Architecture Search" by Chris Ying et al. (ICML 2019)
 - [ ] MnasNet: Platform-Aware Neural Architecture Search for Mobile [Tan etal., CVPR 2019]
 - [ ] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware [Cai et al., ICLR 2019]
 - [ ] FBNet: Hardware-Aware E ffi cient ConvNet Design via Di ff erentiable Neural Architecture Search [Wu et al., CVPR 2019]
