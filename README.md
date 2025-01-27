@@ -44,8 +44,21 @@
 - [ ] Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation [Zhang et al. , ICCV 2019]
 - [ ] MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices [Sun et al. , ACL 2020]
 - [ ] AutoAugment: Learning Augmentation Policies from Data [Cubuk et al. , CVPR 2019]
-
-
+- [ ] Dense Knowledge Distillation for Image Classification Authors: Zejia Weng, et al. (2021)
+- [ ] Teacher Assistant Knowledge Distillation
+- [ ] Distilling Object Detectors with Fine-Grained Feature Imitation Authors: Tao Wang, et al. (2019)
+- [ ] Attention Transfer - Sergey Zagoruyko, Nikos Komodakis (2016)
+- [ ] Contrastive Representation Distillation - Hyeonseong Kim, et al. (2021)
+- [ ] Distilling Object Detectors with Fine-Grained Feature Imitation - Tao Wang, et al. (2019)
+- [ ] Knowledge Distillation: A Good Teacher is Patient and Consistent - Hugo Touvron, et al. (2021)
+- [ ] Few-Shot Knowledge Distillation for Efficient Network Compression -  Byungsoo Ko, et al. (2020)
+- [ ] Knowledge Distillation by On-the-Fly Native Ensemble - Sungsoo Ahn, et al. (2019)
+- [ ] "Self-Distillation Amplifies Regularization in Hilbert Space - Xu Lan, et al. (2018)
+- [ ] Net2Net: Accerlerating Learning Via Knowledge Transfer
+- [ ] Deep Mutual Learning
+- [ ] Disjoint Masking with Joint Distillation for Efficient Masked Image Modeling
+- [ ] Curriculum Temperature for Knowledge Distillation
+      
 ## Neural Architecture Search 
 - [ ] Neural Architecture Search: Insights from 1000 Papers
 - [ ] SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size [Iandola et al., arXiv 2016]
