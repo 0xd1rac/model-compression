@@ -16,6 +16,8 @@
 
 
 ## Quantization
+- [ ] A Survey of Quantization Methods for Efficient Neural Network Inference
+- [ ] A Case Study of Quantizing Convolutional Neural Networks for Fast Disease Diagnosis on Portable Medical Devices
 - [ ] Deep Compression [Han et al., ICLR 2016]
 - [ ] HAQ: Hardware-Aware Automated Quantization with Mixed Precision [Wang et al., CVPR 2019]
 - [ ] Towards Accurate Binary Convolutional Neural Network [Lin et al., NeurIPS 2017]
