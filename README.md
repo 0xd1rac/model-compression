@@ -58,7 +58,10 @@
 - [ ] Deep Mutual Learning
 - [ ] Disjoint Masking with Joint Distillation for Efficient Masked Image Modeling
 - [ ] Curriculum Temperature for Knowledge Distillation
-      
+- [ ] One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Distillation
+- [ ] ScaleKD: Strong Vision Transformers Could Be Excellent Teachers
+- [ ] Knowledge Diffusion for Distillation
+
 ## Neural Architecture Search 
 - [ ] Neural Architecture Search: Insights from 1000 Papers
 - [ ] SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size [Iandola et al., arXiv 2016]
