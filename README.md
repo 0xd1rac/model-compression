@@ -86,6 +86,20 @@
 - [ ] SNIP: Single-Shot Network Pruning based on Connection Sensitivity [Lee et al., ICLR 2019]
 - [ ] Flextron: Many-in-One Flexible Large Language Model [Cai et al., ICML 2024]
 
+# Low-Rank Factorization (Matrix and Tensor Decomposition)
+- [ ] Denton et al. (2014) – "Exploiting Linear Structure Within Convolutional Networks"
+- [ ] Jaderberg et al. (2014) – "Speeding up Convolutional Neural Networks with Low Rank Expansions"
+- [ ] Lebedev et al. (2014) – "Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition"
+- [ ] Tai et al. (2016) – "Convolutional Neural Networks with Low-Rank Regularization"
+- [ ] Kim et al. (2016) – "Compression of Deep Convolutional Neural Networks by Low-Rank Approximation and Weight Pruning"
+
+# Transferred Compact Convolutional Filters
+- [ ] Zhai et al. (2016) – "Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization, and Huffman Coding"
+- [ ] Molchanov et al. (2017) – "Pruning Convolutional Neural Networks for Resource Efficient Transfer Learning"
+- [ ] Li et al. (2017) – "Pruning Filters for Efficient ConvNets"
+- [ ] He et al. (2019) – "Filter Pruning via Geometric Median for Deep Convolutional Networks Acceleration
+- [ ] Liu et al. (2019) – "Rethinking the Value of Network Pruning"
+
 ## LLM Deployment Techniques
 - [ ] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models
 - [ ] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
